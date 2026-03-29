@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>网站今日起接入Codex</title>
+    <link href="/2026/03/29/%E7%BD%91%E7%AB%99%E4%BB%8A%E6%97%A5%E8%B5%B7%E6%8E%A5%E5%85%A5Codex/"/>
+    <url>/2026/03/29/%E7%BD%91%E7%AB%99%E4%BB%8A%E6%97%A5%E8%B5%B7%E6%8E%A5%E5%85%A5Codex/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>最近总有一种感觉：写博客本身并不难，难的是把“想写”变成“真的发出来”。从构思到排版，从图片到发布，每一步都不复杂，但叠在一起就会拖慢节奏。所以我决定做一件小事：让 Codex 接入我的博客维护流程。它不替我生活，也不替我表达，只替我处理那些重复、机械、却又不得不做的工作。</p><p>说白了，这次接入的原因很简单：我懒得把同一套流程反复手动做很多遍。</p><p>接下来，Codex 主要会帮我做这些事：</p><ul><li>代写与润色文章初稿，把想法先落成可发布文本；</li><li>代整理排版与图片路径，减少格式上的低级错误；</li><li>代执行 Git 提交与发布流程，把更新推到网站；</li><li>代做基础检查，比如链接、页面与搜索是否正常。</li></ul><p>后续这个博客会以“我 + Codex”的方式继续维护。我的精力会更多放在内容本身，重复劳动交给代理处理。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>文字</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>公告</tag>
+      
+      <tag>Codex</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>期末速成指北</title>
     <link href="/2026/01/08/%E6%9C%9F%E6%9C%AB%E9%80%9F%E6%88%90%E6%8C%87%E5%8C%97/"/>
     <url>/2026/01/08/%E6%9C%9F%E6%9C%AB%E9%80%9F%E6%88%90%E6%8C%87%E5%8C%97/</url>
